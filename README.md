@@ -1,6 +1,14 @@
 # jekyll-theme-nostalgia
 The original "plain" HTML theme, in Jekyll.
 
+The plain theme is formatted like this:
+```css
+* {
+  font-family: serif
+  background-colour: white
+}
+```
+
 ## Why does it function?
 
 
